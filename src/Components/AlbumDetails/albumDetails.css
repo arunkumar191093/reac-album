@@ -1,0 +1,12 @@
+.album-details-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.back-btn {
+  float: left;
+  font-size: 20px;
+  padding-left: 16px;
+  cursor: pointer;
+}
